@@ -1,3 +1,31 @@
 :root {
-  background-color: aqua;
+  background-color: #f0c9ea;
+}
+
+.container{
+  width: 80%;
+  height: 70vh;
+  background-color: #FFFFFF;
+  border-radius: 5%;
+  border: 1px solid #FFFFFF;
+  
+
+  margin: auto;
+  margin-top: 5%;
+  
+
+  border: 1px solid blue;
+}
+
+.fields {
+  margin: 5% 10%;
+}
+
+.pink-font {
+  color: #E8258E;
+}
+
+#field__title {
+  font-size: 18px;
+  font-wight: bold;
 }
